@@ -38,7 +38,7 @@ This program is provided for educational and research purposes. You are encourag
 ## Author @ raam96
 This program was authored by the project owner.
 
-Feel free to contact the author for any inquiries or additional information.
+Feel free to contact the author for any inquiries or additional information npraam@hotmail.com.
 
 For detailed information on the code logic and implementation, please refer to the code comments in the respective Python files.
 
